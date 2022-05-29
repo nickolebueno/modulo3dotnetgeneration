@@ -1,0 +1,69 @@
+/*
+ Styles of index.html page
+*/
+
+.center {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#menu li { 
+    display: inline;
+    padding: 20px;
+   
+
+}
+
+#menu li a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+#menu li a:hover {
+    color: red
+    
+}
+
+.pad1 {
+    padding: 50px;
+}
+
+.bordinha {
+    border-radius: 3%;
+}
+
+.social-sz {
+    width: 36px;
+    height: 36px;
+    padding: 10px;
+}
+
+.marginbt {
+    margin-bottom: 30px;
+
+}
+
+.marginleft {
+    margin-left: 30px;
+}
+
+.marginright {
+    margin-right: 30px;
+}
+
+
+
+
+
+
+
+/*
+ Styles of index.html page
+*/
